@@ -1,16 +1,16 @@
 # Homespace Network: Epine SDK by Homespace for TON-Enabled Applications with TonConnect Authentication
 ## Overview
 
-We are creating a network of 3D cinematic spaces to be used as a new generation of websites as well as a service for closed virtual reality meetings. We use a streaming system to use the network, and develop a decentralized browser with web3 tools, an asset store, and a constructor (modules, levels, nft).  
+We are creating a network of 3D cinematic spaces to be used as a new generation of websites as well as a service for closed virtual reality meetings. We use a streaming system and develop a decentralized browser with web3 tools, an asset store (modules, levels, nft) and a constructor of Metaspaces for users.  
 
-For the purpose of the hackathon as a web3 project we created an opensource SDK module - Epine SDK by Homespace. 
+For the purpose of the hackathon as a part of our system we created an opensource SDK module - Epine SDK by Homespace. 
 
 The Epine SDK by Homespace is an open-source set of powerful tools for developers to create TON blockchain-enabled applications with TonConnect authentication methods. With Epine SDK, developers can connect Ton wallets via TonConnect, verify wallets, and retrieve balances. The SDK's components include an Unreal Engine Plugin, a C++ Library, and a Server.
 
 ## Unreal Engine Plugin
 [Source code](https://github.com/EpineCloud/EpinePlugin-Unreal)
 
-The Unreal Engine Plugin is a wrapper around the C++ library and allows developers to connect Ton wallets to their Unreal Engine applications. It simplifies the integration process and enables developers to focus on their business logic.
+The Unreal Engine Plugin is a wrapper around the C++ library and allows developers to connect Ton wallets to their Unreal Engine applications. It simplifies the integration process and enables developers to focus on their business logic. In this case, the showcase for using the SDK is our project. 
 
 ## C++ Library
 [Source code](https://github.com/EpineCloud/epine-sdk-cpp)
