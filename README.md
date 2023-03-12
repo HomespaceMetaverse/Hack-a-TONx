@@ -1,4 +1,4 @@
-# Epine SDK by Homespace for TON-Enabled Applications with TonConnect Authentication
+# Homespace Network: Epine SDK by Homespace for TON-Enabled Applications with TonConnect Authentication
 ## Overview
 
 We are creating a network of 3D cinematic spaces to be used as a new generation of websites as well as a service for closed virtual reality meetings. We use a streaming system to use the network, and develop a decentralized browser with web3 tools, an asset store, and a constructor (modules, levels, nft).  
