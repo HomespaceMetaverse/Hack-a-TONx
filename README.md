@@ -1,5 +1,10 @@
 # Epine SDK by Homespace for TON-Enabled Applications with TonConnect Authentication
 ## Overview
+
+We are creating a network of 3D cinematic spaces to be used as a new generation of websites as well as a service for closed virtual reality meetings. We use a streaming system to use the network, and develop a decentralized browser with web3 tools, an asset store, and a constructor (modules, levels, nft).  
+
+For the purpose of the hackathon as a web3 project we created an opensource SDK module - Epine SDK by Homespace. 
+
 The Epine SDK by Homespace is an open-source set of powerful tools for developers to create TON blockchain-enabled applications with TonConnect authentication methods. With Epine SDK, developers can connect Ton wallets via TonConnect, verify wallets, and retrieve balances. The SDK's components include an Unreal Engine Plugin, a C++ Library, and a Server.
 
 ## Unreal Engine Plugin
